@@ -70,17 +70,15 @@ Se fôssemos apresentar esta análise à Amazon ou a um grande vendedor do marke
 ---
 ## Visualizações e Análises Chave
 
-*(Aqui você cola os screenshots da sua Ficha Técnica)*
-
 ### 1. Mapa de Calor de Correlações
 * **Descrição:** Matriz de correlação de Pearson entre as principais variáveis numéricas. Confirma visualmente a falta de correlação entre `rating` e as variáveis de preço ou desconto.
 
-*[COLE AQUI O PRINT: "Mapa de Calor - Correlação de Pearson" (página 29 da ficha)]*
+*![dash1-proj 04.jpg](dashboards_screenshots/dash1-proj 04.jpg)*
 
 ### 2. Distribuição de Produtos com ou sem Imagem
 * **Descrição:** Gráfico de barras mostrando a proporção de produtos com e sem imagem. Essencial para contextualizar o principal insight do projeto.
 
-*[COLE AQUI O PRINT: "Distribuição de Produtos com ou sem Imagem" (página 19 da ficha)]*
+*![Mapa de Calor - Correlação de Pearson](dashboards_screenshots/dash1-proj%2004.jpg)*
 
 ### 3. Boxplot da Variável "Rating"
 * **Descrição:** Boxplot da variável `rating`. Importante para mostrar que, embora o método estatístico IQR tenha identificado "outliers", eles eram, na verdade, avaliações legítimas (ex: notas 2, 3), e que a grande maioria das notas se concentra entre 4.0 e 4.5.
